@@ -69,6 +69,3 @@ url = get_url()
 get_languages(count, repos, url)
 
 fp.close()
-    #write_language(js)
-    #count = 0
-    #repos = repos + 1
