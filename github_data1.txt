@@ -1,0 +1,174 @@
+The repository name is: linux
+The repository url is: https://github.com/torvalds/linux
+Languages used    Lines of Code
+
+C      :       697586162
+Assembly      :       9761021
+C++      :       9708765
+Objective-C      :       2281075
+Makefile      :       1860527
+Perl      :       767716
+Shell      :       697421
+Python      :       634409
+Roff      :       127340
+Yacc      :       119874
+Perl 6      :       100718
+Lex      :       58424
+Awk      :       49246
+Prolog      :       48140
+UnrealScript      :       17821
+Gherkin      :       7854
+M4      :       3325
+Clojure      :       1463
+XS      :       1239
+
+
+The repository name is: netdata
+The repository url is: https://github.com/firehol/netdata
+Languages used    Lines of Code
+
+C      :       2753178
+Python      :       1245304
+JavaScript      :       810170
+HTML      :       520345
+Shell      :       426031
+CSS      :       338928
+M4      :       55707
+Makefile      :       28693
+C++      :       9283
+CMake      :       6925
+POV-Ray SDL      :       5638
+Objective-C      :       4068
+
+
+The repository name is: redis
+The repository url is: https://github.com/antirez/redis
+Languages used    Lines of Code
+
+C      :       3192670
+Tcl      :       514866
+Ruby      :       81438
+Objective-C      :       24462
+Shell      :       17085
+Makefile      :       10335
+C++      :       8075
+Smarty      :       1047
+
+
+The repository name is: git
+The repository url is: https://github.com/git/git
+Languages used    Lines of Code
+
+C      :       6987074
+Shell      :       5215568
+Perl      :       1124022
+Tcl      :       773553
+Python      :       325724
+Makefile      :       129687
+Emacs Lisp      :       86852
+JavaScript      :       49702
+M4      :       37675
+C++      :       33081
+Roff      :       26859
+Go      :       15064
+CSS      :       10637
+Objective-C      :       8750
+PHP      :       7984
+Assembly      :       7443
+
+
+The repository name is: ijkplayer
+The repository url is: https://github.com/Bilibili/ijkplayer
+Languages used    Lines of Code
+
+C      :       1226084
+Objective-C      :       436539
+Java      :       407224
+Shell      :       139832
+C++      :       26224
+Makefile      :       20805
+Ruby      :       180
+
+
+The repository name is: php-src
+The repository url is: https://github.com/php/php-src
+Languages used    Lines of Code
+
+C      :       69063033
+PHP      :       27864639
+C++      :       5090446
+M4      :       471809
+Shell      :       304915
+Objective-C      :       300139
+JavaScript      :       197342
+Lex      :       87358
+Yacc      :       72839
+Makefile      :       49225
+HTML      :       17225
+GDB      :       12967
+Perl      :       10643
+Batchfile      :       9833
+XSLT      :       8281
+Awk      :       6582
+DTrace      :       4528
+Roff      :       1316
+GAP      :       4
+
+
+The repository name is: How-to-Make-a-Computer-Operating-System
+The repository url is: https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+Languages used    Lines of Code
+
+C      :       518507
+C++      :       142301
+Assembly      :       20356
+Makefile      :       9623
+Ruby      :       4779
+Shell      :       456
+
+
+The repository name is: wrk
+The repository url is: https://github.com/wg/wrk
+Languages used    Lines of Code
+
+C      :       202895
+Lua      :       4956
+Makefile      :       2751
+
+
+The repository name is: the_silver_searcher
+The repository url is: https://github.com/ggreer/the_silver_searcher
+Languages used    Lines of Code
+
+C      :       238541
+Perl      :       26300
+M4      :       16498
+Shell      :       9870
+Makefile      :       995
+Python      :       638
+
+
+The repository name is: emscripten
+The repository url is: https://github.com/kripken/emscripten
+Languages used    Lines of Code
+
+C      :       31654617
+C++      :       17879211
+JavaScript      :       4057833
+Python      :       2201547
+Shell      :       1464317
+LLVM      :       1382354
+Makefile      :       1367375
+HTML      :       1360251
+Objective-C      :       474410
+CMake      :       309245
+M4      :       255785
+Roff      :       51823
+HLSL      :       40945
+Assembly      :       30531
+Lua      :       15098
+Nix      :       8867
+CSS      :       7850
+Batchfile      :       7302
+
+
